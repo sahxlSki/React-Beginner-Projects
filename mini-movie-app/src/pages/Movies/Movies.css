@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 20px;
+}
+
+.movie-poster {
+    width: 150px;
+    height: 225px;
+    object-fit: cover;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+.movienames a{
+    text-decoration: none;
+}
+
+.movienames a:visited{
+    color: white;
+    
+    
+}
+  

@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+
+    
+}
+
+.inputfield{
+    width:60%;
+    padding: 20px;
+    border-radius: 7px;
+}
+
+.homebtn{
+    margin-left: 5px;
+    padding: 20px;
+    border-radius: 7px;
+}
+
